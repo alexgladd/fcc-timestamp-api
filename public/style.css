@@ -1,0 +1,7 @@
+/* styles */
+/* called by your view template */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin-left: 20vw;
+}
